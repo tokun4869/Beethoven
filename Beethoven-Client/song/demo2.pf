@@ -1,0 +1,15 @@
+name#demo2
+addbar
+addbar
+addbar
+bar#0
+plus#default#piano#ROCK#ROCK_piano_A.wav
+plus#default#drum#ROCK#ROCK_drum_A.wav
+bar#1
+plus#default#piano#ROCK#ROCK_piano_A.wav
+bar#2
+sendvolume#0#piano#0#127
+sendvolume#0#drum#0#127
+sendvolume#1#piano#0#127
+bar#1
+end

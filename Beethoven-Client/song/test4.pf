@@ -1,0 +1,9 @@
+name#test4
+addbar
+addbar
+bar#0
+plus#default#drum#ROCK#ROCK_drum_A.wav
+bar#1
+sendvolume#0#drum#0#127
+bar#0
+end

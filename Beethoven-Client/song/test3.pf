@@ -1,0 +1,11 @@
+name#test3
+addbar
+addbar
+bar#0
+plus#default#drum#ROCK#ROCK_drum_B.wav
+bar#1
+plus#default#piano#ROCK#ROCK_piano_A.wav
+sendvolume#0#drum#0#127
+sendvolume#1#piano#0#127
+bar#0
+end
